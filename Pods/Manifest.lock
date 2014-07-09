@@ -1,0 +1,28 @@
+PODS:
+  - hpple (0.0.1)
+  - KLNoteViewController (1.0)
+  - MagicalRecord (2.2)
+  - MBProgressHUD (0.8)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Reachability (3.1.1)
+  - SDWebImage/Core (3.5)
+
+DEPENDENCIES:
+  - hpple
+  - KLNoteViewController
+  - MagicalRecord
+  - MBProgressHUD
+  - MKNetworkKit
+  - SDWebImage/Core
+
+SPEC CHECKSUMS:
+  hpple: 1d9a32ac85e2f9038a43e127d420c1d2ef3b5750
+  KLNoteViewController: 74c80408021ebd482e2af8d162b14e23041fb06d
+  MagicalRecord: b1fc46c99a9749fe7fe7e6f43a89b62ef5201933
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  MKNetworkKit: f174100f92473012138b6b1c3040266af8d43a14
+  Reachability: 2be6bc2fd2bd31d97f5db33e75e4b29c79e95883
+  SDWebImage: f1a72472f8a2d54445f1fedafe2090593d9caf7f
+
+COCOAPODS: 0.23.0

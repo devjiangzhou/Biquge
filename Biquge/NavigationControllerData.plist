@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>premium-header-mid-skinny</string>
+		<key>title</key>
+		<string>设 置</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>排 行 榜</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>玄 幻</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>修 真</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>穿 越</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>科 幻</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>网 游</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bar-mid</string>
+		<key>title</key>
+		<string>都 市</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>premium-header-mid-skinny</string>
+		<key>title</key>
+		<string>书 架</string>
+	</dict>
+</array>
+</plist>

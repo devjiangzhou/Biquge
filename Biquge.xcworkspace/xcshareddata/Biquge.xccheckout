@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12CDD233-DD9D-4FA6-904E-1ADDF93D3259</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Biquge</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6759B5B-FF06-4CEC-9DE9-D3D8D8CFA27F</key>
+		<string>https://github.com/jiangzhoubai/biquge.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Biquge/Biquge.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6759B5B-FF06-4CEC-9DE9-D3D8D8CFA27F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jiangzhoubai/biquge.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6759B5B-FF06-4CEC-9DE9-D3D8D8CFA27F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6759B5B-FF06-4CEC-9DE9-D3D8D8CFA27F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>biquge</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="JZDictory" representedClassName="JZDictory" syncable="YES">
+        <attribute name="dictoryDiskPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dictoryId" optional="YES" attributeType="Integer 32" indexed="YES" syncable="YES"/>
+        <attribute name="dictoryTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dictoryWebPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDownlaod" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="storyId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="JZStory" representedClassName="JZStory" syncable="YES">
+        <attribute name="isDownload" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isOver" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastReadId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="lastReadTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastUpdateTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyAuthor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyBookPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="storyImagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyRemark" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyWebPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalNum" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="JZDictory" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="JZStory" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
